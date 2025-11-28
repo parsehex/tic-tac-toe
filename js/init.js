@@ -11,6 +11,7 @@ function showModal() {
     botEnabled = event.target.checked;
     document.getElementById('playAs-container').style.display = botEnabled ? 'block' : 'none';
   });
+  document.getElementById('playAs').value = tokens.person;
   document.getElementById('playAs').addEventListener('change', function(event) {
     tokens.person = event.target.value;
     tokens.bot = event.target.value === 'X' ? 'O' : 'X';

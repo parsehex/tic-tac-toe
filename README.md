@@ -9,7 +9,9 @@ I'm returning now in 2025 to make some small changes, listed below:
 - Added README
 - Added [MIT License](./LICENSE)
 - Updated `Fork Me on GitHub` button
-- Fixed HTML typo
+- Fixed:
+  - HTML typo
+  - Bug observed in Firefox with the `playAs` dropdown
 
 Otherwise, the project is in the same state that it was in 2017. All changes have been by hand without the use of AI (or formatting).
 
