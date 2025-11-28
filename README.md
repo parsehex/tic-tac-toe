@@ -1,4 +1,4 @@
-[View the project][https://parsehex.github.io/tic-tac-toe]
+[View the project](https://parsehex.github.io/tic-tac-toe)
 
 This is the game Tic Tac Toe playable in the browser.
 
