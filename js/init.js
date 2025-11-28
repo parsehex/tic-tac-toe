@@ -7,6 +7,7 @@ function showModal() {
 
   modal.style.display = 'block';
 
+  document.getElementById('bot').checked = botEnabled;
   document.getElementById('bot').addEventListener('change', function(event) {
     botEnabled = event.target.checked;
     document.getElementById('playAs-container').style.display = botEnabled ? 'block' : 'none';

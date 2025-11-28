@@ -11,7 +11,7 @@ I'm returning now in 2025 to make some small changes, listed below:
 - Updated `Fork Me on GitHub` button
 - Fixed:
   - HTML typo
-  - Bug observed in Firefox with the `playAs` dropdown
+  - Bug observed in Firefox with the `playAs` dropdown and `bot` checkbox
 
 Otherwise, the project is in the same state that it was in 2017. All changes have been by hand without the use of AI (or formatting).
 
